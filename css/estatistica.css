@@ -1,0 +1,171 @@
+#central{
+    
+    padding:0px;
+    margin-left: 35%;
+    width: 20%;
+}
+
+@font-face{
+    
+    font-family: Montserrat Black;
+    src: url('Montserrat-Bold.otf');
+    
+}
+@font-face{
+    
+    font-family: Montserrat-Hairline;
+    src: url('Montserrat-Hairline.otf');
+    
+}
+
+
+
+
+
+.all{
+    background-color: white;
+    height: 116px;
+    position: static;
+    border-radius: 3px;
+}
+.escudo{
+    float: left;
+    margin-top: 3%;
+    margin-left: 2%;
+}
+
+.jogador img{
+   
+ margin-left: 14%;
+ width:80%;
+
+     
+}
+.jogador{
+    float: left;
+}
+
+#jogador_nome{
+    font-family: Montserrat Black;
+    float: right;
+    margin-top: 3%;
+    margin-right: 63%;
+    font-size: 20px;
+    padding: 0px;
+}
+#position_jogador{
+    font-family: Montserrat-Hairline;
+    float:left;
+    margin-top:-1%;
+    padding: 0px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.linha{
+    float:bottom;
+}
+.linha,hr{
+    border:10px,solid;
+    border-color:black;
+    padding: 0px;
+    float: bottom;
+}
+
+#gols{
+    
+    font-family: Montserrat Black;
+    float:right;
+    margin-right: 10%;
+    margin-top: -5%;
+    font-size: 19px;
+} 
+
+#gols_info{
+     float:right;
+     font-size: 20px;
+    margin-right: 11%;
+    margin-top: -2%;
+       font-family: Montserrat Black;
+}
+
+.time{
+    margin-right: 81%;
+    margin-top: -10%;
+    width: 75%;
+}
+
+.jogador{
+    width:140%;
+    margin-left:-290%;
+    margin-top:-22%;
+}
+.info_jogador{
+    
+    font-family: Montserrat Black;
+    font-size: 20px;
+    color:black; 
+    width: 500%;
+    margin-left: -500%;
+    text-align: left;
+    
+    
+}
+.position_jogador{
+      font-family: Montserrat-Hairline;
+      font-size: 16px;
+      font-weight: bold;
+      color:black;
+      margin-left: -500%;
+      margin-top: -20%;
+      text-align: left;
+}
+
+.gol_1{
+    font-family: Montserrat Black;
+    font-size: 20px;
+    color:black;
+    margin-left: 140%;    
+    margin-top: -17%;    
+}
+
+.gol_2{
+    
+    font-family: Montserrat Black;
+    font-size: 20px;
+    color:black;
+    margin-left: 160%;
+    margin-top: -14%; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#envolve{
+
+}
+#div_1{
+width:80px;
+height:50px;
+margin-top: 5%;
+margin-bottom: 2%;
+margin-right: 66%;
+text-align:center;
+color:#FFF;
+}
+#clear{
+clear:both; 
+}
+
