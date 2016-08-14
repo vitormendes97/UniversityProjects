@@ -7,6 +7,12 @@ class Tabela {
     private $liga;
     private $clube;
     private $pontos;
+    private $vitoria;
+    private $empate;
+    private $derrota;
+    private $gol_pro;
+    private $gol_contra;
+    private $saldo_gol;
     
     public function __construct() {
         

@@ -3,10 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/LigaArua/jogos_banco_dados/jogos_rodada.php</file>
-            <file>file:/C:/xampp/htdocs/LigaArua/css/jogos_rodada.css</file>
-            <file>file:/C:/xampp/htdocs/LigaArua/jogos_banco_dados/estatisticas2.php</file>
-            <file>file:/C:/xampp/htdocs/LigaArua/css/estatistica.css</file>
+            <file>file:/C:/xampp/htdocs/LigaArua/jogos_banco_dados/jogos.php</file>
+            <file>file:/C:/xampp/htdocs/LigaArua/Model/Tabela.php</file>
+            <file>file:/C:/xampp/htdocs/LigaArua/Tabela/tabela.php</file>
         </group>
     </open-files>
 </project-private>
